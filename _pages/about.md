@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Bioinformatic Director, Senior Bioinformatic Scientist</a>. </p> Kidney and Urinary Tract Center. Nationwide Children's Hospital, Columbus, OH, USA.
+subtitle: <a href='#'>Bioinformatic Director, Senior Bioinformatic Scientist, Kidney and Urinary Tract Center. Nationwide Children's Hospital
 
 profile:
   align: right
@@ -18,6 +18,7 @@ latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
 
 I am currently serving as the Senior Bioinformatic Scientist and Bioinformatic Director at the Kidney and Urinary Tract Center, Nationwide Children's Hospital in Columbus. I earned my Ph.D. from King Abdullah University of Science and Technology in Saudi Arabia and subsequently conducted my postdoctoral fellowship at prestigious institutions such as Boston Children's Hospital, Harvard Medical School, Houston Methodist Hospital, and Weill Cornell Medical College. 
 
