@@ -9,8 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>R01 432</p>
-    <p>700 Children's Dr. /p>
+    <p>Kidney and Urinary Tract Center </p>
+    <p>Nationwide Children's Hospital </p>
+    <p>700 Children's Dr. </p>
     <p>Columbus, OH, 43221</p>
 
 news: true # includes a list of news items

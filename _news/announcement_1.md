@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: Nov 10, 2023
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Bioinformatic Director, Kidney and Urinary Tract Center, Nationwide children’s hospital
