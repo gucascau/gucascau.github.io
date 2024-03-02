@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Bioinformatic Director, Senior Bioinformatic Scientist</a>. Kidney and Urinary Tract Center. Nationwide Children's Hospital, Columbus, OH, USA.
+subtitle: <a href='#'>Bioinformatic Director, Senior Bioinformatic Scientist</a>. </p> Kidney and Urinary Tract Center. Nationwide Children's Hospital, Columbus, OH, USA.
 
 profile:
   align: right
