@@ -10,6 +10,11 @@ I am leading the bioinformatic projects integral to the success of 7 principal i
 
 Link: [gucascau.github.io](https://gucascau.github.io)
 
+## Skillsets
+Spatial and Single Cell Transcriptomics, DNA Damage Repair, Large Insertion, Mitochondrial Acitivity, Cell Proliferation
+
+Perl, R and Shell et.al.
+
 ## Copyright
 For more detail information, please feel free to contact: xin.wang@nationwidechildrens.org
 
