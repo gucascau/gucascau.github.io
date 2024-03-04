@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Xin Wang",
+    "label": "Senior Bioinformatic Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "xin.wang@nationwidechildrens.org",
+    "phone": "(832) 3585630-4567",
+    "url": "https://gucascau.github.io",
+    "summary": "A Bioinformatic Director, Senior Bioinformatic Scientist, Kidney and Urinary Tract Center. Nationwide Children's Hospital",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "700 Children's Dr. Columbus, ",
+      "postalCode": "OH, 43221",
+      "city": "Columbus",
       "countryCode": "US",
-      "region": "California"
+      "region": "Ohio"
     },
     "profiles": [
       {
@@ -24,133 +24,65 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Nationwide Children's Hospital",
+      "position": "Senior Bioinformatic Scientist, Bioinformatic Director",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "startDate": "2022-10",
+      "endDate": "now",
+      "summary": "Leading bioinformatic team at KUTC and extensively working with all our Center principal investigators.",
       "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "King Abdullah University of Science and Technology (KAUST)",
+      "location": "Jeddah, Saudi Arabia",
+      "url": "https://www.kaust.edu.sa/en/",
+      "area": "Bioscience",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "startDate": "2015-01-01",
+      "endDate": "2018-12-01",
+      "score": "10"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Bulk transcriptional inhibition after irradiation is mainly due to loss of nascent transcripts from the rDNA and histone genes ",
+      "publisher": "Elife",
+      "releaseDate": "2024",
+      "url": "https://elifesciences.org/reviewed-preprints/94001",
+      "summary": "In response to DNA double strand damage, ongoing transcription is inhibited to facilitate accurate DNA repair while transcriptional recovery occurs after DNA repair is complete. However, the mechanisms at play and identity of the transcripts being regulated in this manner are unclear. In contrast to the situation following UV damage, we found that transcriptional recovery after ionizing radiation (IR) occurs in a manner independent of the HIRA histone chaperone. Sequencing of the nascent transcripts identified a programmed transcriptional response, where certain transcripts and pathways are rapidly downregulated after IR, while other transcripts and pathways are upregulated. Specifically, most of the loss of nascent transcripts occurring after IR is due to inhibition of transcriptional initiation of the highly transcribed histone genes and the rDNA. To identify factors responsible for transcriptional inhibition after IR in an unbiased manner, we performed a whole genome gRNA library CRISPR / Cas9 screen. Many of the top hits in our screen were factors required for protein neddylation. However, at short times after inhibition of neddylation, transcriptional inhibition still occurred after IR, even though neddylation was effectively inhibited. Persistent inhibition of neddylation blocked transcriptional inhibition after IR, and it also leads to cell cycle arrest. Indeed, we uncovered that many inhibitors and conditions that lead to cell cycle arrest in G1 or G2 phase also prevent transcriptional inhibition after IR. As such, it appears that transcriptional inhibition after IR occurs preferentially at highly expressed genes in cycling cells."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Yeast EndoG prevents genome instability by degrading cytoplasmic DNA",
+      "publisher": "Nature Communication",
+      "releaseDate": "2024",
+      "url": "https://www.biorxiv.org/content/10.1101/2023.12.13.571550v1",
+      "summary": "In metazoans release of mitochondrial DNA or retrotransposon cDNA to cytoplasm can cause sterile inflammation and disease. Cytoplasmic nucleases degrade these DNA species to limit inflammation. It remains unknown whether degradation these DNA also prevents nuclear genome instability. To address this question, we decided to identify the nuclease regulating transfer of these cytoplasmic DNA species to the nucleus. We used an amplicon sequencing-based method in yeast enabling analysis of millions of DSB repair products. Nuclear mtDNA (NUMTs) and retrotransposon cDNA insertions increase dramatically in nondividing stationary phase cells. Yeast EndoG (Nuc1) nuclease limits insertions of cDNA and transfer of very long mtDNA (>10 kb) that forms unstable circles or rarely insert in the genome, but it promotes formation of short NUMTs (∼45-200 bp). Nuc1 also regulates transfer of cytoplasmic DNA to nucleus in aging or during meiosis. We propose that Nuc1 preserves genome stability by degrading retrotransposon cDNA and long mtDNA, while short NUMTs can originate from incompletely degraded mtDNA. This work suggests that nucleases eliminating cytoplasmic DNA play a role in preserving genome stability."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "The evolution of calcification in reef-building corals",
+      "publisher": "Molecular Biology and Evolution",
+      "releaseDate": "2021",
+      "url": "https://academic.oup.com/mbe/article/38/9/3543/6237495",
+      "summary": "Using a combination of phylogenomics, proteomics, and immunohistochemistry, we show that scleractinian corals likely acquired the ability to calcify sometime between ∼308 and ∼265 Ma through a combination of lineage-specific gene duplications and the co-option of existing genes to the calcification process. Our results suggest that coral calcification did not require extensive evolutionary changes, but rather few coral-specific gene duplications and a series of small, gradual optimizations of ancestral proteins and their co-option to the calcification process."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "R",
+        "Perl",
+        "Shell"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -162,38 +94,16 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Bioinformatics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Spatial Transcriptomics",
+        "Single Cell RNAseq",
+        "DNA damage repair",
+        "Urothelium development",
+        "Bioinformatic Pipeline",
+        "Software Development"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
 }
