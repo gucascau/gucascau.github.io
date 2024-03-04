@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "Xin Wang",
+        "url": "https://gucascau.github.io"
       }
     ]
   },
@@ -26,7 +26,6 @@
     {
       "name": "Nationwide Children's Hospital",
       "position": "Senior Bioinformatic Scientist, Bioinformatic Director",
-      "url": "https://example.com",
       "startDate": "2022-10",
       "endDate": "now",
       "summary": "Leading bioinformatic team at KUTC and extensively working with all our Center principal investigators.",
