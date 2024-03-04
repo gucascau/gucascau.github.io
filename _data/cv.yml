@@ -51,7 +51,7 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/gucascau/">al-folio</a>
+    - title: <a href="https://github.com/gucascau/">gucascau</a>
       year: 2015-now
       description: A series of software developments to screen DNA damage products and their features, including iDSBins, iDSBindel, iDSBInvert, LargeInsertionFeature, iMMBIR
 
