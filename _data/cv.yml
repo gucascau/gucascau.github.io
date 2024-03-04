@@ -13,18 +13,12 @@
       institution: King Abdullah University of Science and Technology (KAUST)
       year: 01/15 -- 10/18 
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Created two automatic pipelines to assemble 8 whole genomes and annotate them.
+        - Investigated the evolution of coral calcification and thermal resilience specification in corals, and understood the evolutionary processes that allowed the soft ancestor to become the ecosystem builder they are today.
+        - Understood the role of genetics/epigenetics in response to stress, and explore new strategies to increase the thermal resilience of corals in tropical areas
     - title: Master
       institution: Beijing Institute of genomics, Chinese Academy of Science
       year: 09/11 – 07/14
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
@@ -33,27 +27,26 @@
       institution: Nationwide children’s hospital
       year: 11/23- now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Leading bioinformatic team at KUTC and extensively working with all our Center principal investigators.
+        - Consulting pre- or post experiment to determine proper sequencing approaches, design, and integration. 
+        - Customizing advanced analysis of in-depth investigations and developing new methods or pipelines. 
+        - Contributing to grants and manuscripts, including developing the bioinformatic components, generating high quality figures, finding potential storyboards, and drafting manuscripts
+        - Managing data storage and providing data analysis suggestions for the integration of large multi-omics data sets. 
+        - Supervising and training postdocs or students for basic bioinformatic approaches.
+        - Performing bioinformatics analysis to interpret high throughput genomic data, including spatial transcriptome, scRNAseq, ChIP-seq, ATAC-seq, RNA-seq, whole genome and exome sequencing in the Kidney and Urinary Tract center
+
     - title: Senior Bioinformatic Scientist, Kidney and Urinary Tract Center
       institution: Nationwide children’s hospital
       year: 11/23- now
-      description:
-        - Description 1.
-        - Description 2.
 
     - title: Postdoctoral fellow 
       institution: Boston Children’s Hospital, Harvard Medical School
       year: 11/20- 11/22
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
- 
+      description: •	
+      - Developed DSBins software toolkits to identify and functionally profile large insertion events and other repair products at DNA double stand break.
+      - Understood the mechanisms of large insertions at DSB sites in various DNA damage repair gene deficiency, mitochondrion gene defects and aging, illustrating the genomic features, i.e., R-loops, G-quadruplex, Rad52 break site, ARS, TSS.
+      - Developed MutaGene to systematically decoded mutation driver of cancer genomic instability to elucidate potential biomarkers for immunotherapy outcomes by integrating loads of cancer resources. 
+      - Developed novel pipelines, including detecting nucleosome distribution in forward and reverse strand at DSBs and tracing the nascent RNA changes after irradiation using ERCC normalization.
 
     - title: Postdoctoral fellow 
       institution: Houston Methodist Hospital, Weill Cornell Medical College
@@ -64,9 +57,9 @@
   contents:
     - title: <a href="https://github.com/gucascau/">al-folio</a>
       year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+      description: A series of software developments to screen DNA damage products and their features, including iDSBins, iDSBindel, iDSBInvert, LargeInsertionFeature, iMMBIR
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Hiking, Snowing, Diving, Running, etc.
