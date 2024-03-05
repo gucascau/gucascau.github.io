@@ -2,11 +2,21 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: A single-cell analysis coding boot camp run by SCRGOT 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+A single-cell analysis coding boot camp run by SCRGOT (2023 and 2024)
 
-Organize your courses by years, topics, or universities, however you like!
+Session I: Cell-Cell Communication
+Session II: Single Cell Integration 
+Ref: https://github.com/kidcancerlab/2023CoderUpgrade
+
+
+title: Review Roles
+
+2022 – now	Guest associate editor, Genes (DNA damage and repair in microorganism and mammalian systems) 
+2022 – now Guest associate editor: Total Environment Research Themes (Environmental exposome and biomarker monitoring)
+2022 – now	Review editor: Frontiers in Cancer Genetics
+2020 – 	Ad hoc reviewer, Frontiers in Oncology Cancer Genetics, Frontiers in Genetics Bioinformatics and Computational Biology, Frontiers in medicine, Genes, Nutrients, Antioxidants, Metabolites, IJMS, Cancers, Hindawi, etc. 
