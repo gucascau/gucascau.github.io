@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-## Teaching
+## Teaching Roles
 2023 and 2024 **A single-cell analysis coding boot camp run by SCRGOT** <br />
 <br />
     Session I: **Cell-Cell Communication**<br />
@@ -20,6 +20,7 @@ Details: https://github.com/kidcancerlab/2023CoderUpgrade<br />
 ## Review Roles
 2022 – now          *Guest associate editor*    <br />
             **Genes** (DNA damage and repair in microorganism and mammalian systems) <br />
+Details: https://www.mdpi.com/journal/genes/special_issues/DNA_Damage_Microorganisms<br />
 
 2022 – now          *Guest associate editor* <br />
             **Total Environment Research Themes** (Environmental exposome and biomarker monitoring)<br />
