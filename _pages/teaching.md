@@ -9,9 +9,10 @@ nav_order: 6
 
 ## Teaching
 2023 and 2024 **A single-cell analysis coding boot camp run by SCRGOT** <br />
-
+<br />
     Session I: **Cell-Cell Communication**<br />
     Session II:**Single Cell Integration** <br />
+<br />
 Details: https://github.com/kidcancerlab/2023CoderUpgrade<br />
 
 
