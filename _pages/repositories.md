@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: Developed a series of pipelines and software package to address 1) High throughput identification of DNA repair products 2) Characterizition of the features of large insertion events 3) Identificaiton of inverted repeats from ssDNA transformation 4) Genome-wide and RNA expression using ERCC normalization 5) Spatial Map of Mouse Pyelonephritis 6) Single Cell Analysis of Human Diabete.
 nav: true
 nav_order: 4
 ---
