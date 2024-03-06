@@ -9,10 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Kidney and Urinary Tract Center </p>
-    <p>Nationwide Children's Hospital </p>
-    <p>700 Children's Dr. </p>
-    <p>Columbus, OH, 43221</p>
+    Kidney and Urinary Tract Center, Nationwide Children's Hospital <br>
+    700 Children's Dr. <br>
+    Columbus, OH, 43221 <br>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
