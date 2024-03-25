@@ -2,7 +2,7 @@
 layout: page
 title: Spatial Map of Mouse Pylonephritis
 description: We generate a comprhensively high resolution spatial map of mouse kidney after UPEC within different dates
-img: assets/img/Pyelonephritis2.png
+img: assets/img/PylonephritisMain.jpg
 importance: 1
 category: work
 related_publications: true
@@ -12,7 +12,7 @@ Pyelonephritis, a condition initiated by the infiltration of bacteria into the k
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Pyelonephritis2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
