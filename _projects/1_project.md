@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Spatial Map of Mouse Pylonephritis
+title: Spatial Map of Mouse Pyelonephritis
 description: We generate a comprhensively high resolution spatial map of mouse kidney after UPEC within different dates
 img: assets/img/PylonephritisMain.jpg
 importance: 1
@@ -29,3 +29,4 @@ Pyelonephritis, a condition initiated by the infiltration of bacteria into the k
 
 You can also access to the project details in my github: https://github.com/gucascau/Pyelonephritis.git
 
+Reference: Wang X, Cotzomi Ortega I, Sanchez-Zamora YK, Patel R, Kercsmar M, Jackson AR, Spencer JD, Becknell B#, Ruiz-Rosado# 2023. Spatial Multi-Omic Atlas of Pyelonephritis. American Society of Nephrology (Oral presentation)
