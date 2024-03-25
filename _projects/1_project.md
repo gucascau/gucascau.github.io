@@ -27,6 +27,25 @@ Pyelonephritis, a condition initiated by the infiltration of bacteria into the k
     Single cell RNAseq using PIPseq at 0dpi, 3dpi, 7dpi and 28dpi and Spatial transcriptomics at 0dpi(1), 1dpi(2), 3dpi(2), 5dpi(2), 7dpi(1), 28dpi(2), 56dpi(1).
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/SingleCellDistribution.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The Distribution of Single cell RNAseq using PIPseq at 0dpi, 3dpi, 7dpi and 28dpi. Different cell biomarkers were used to support the cell types in kidney
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/SpatialMaps.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The Distribution of Spatial transcriptomics. Different cell type proportion were used to show the spatial distribution
+</div>
+
+
 You can also access to the project details in my github: https://github.com/gucascau/Pyelonephritis.git
 
 Reference: Wang X, Cotzomi Ortega I, Sanchez-Zamora YK, Patel R, Kercsmar M, Jackson AR, Spencer JD, Becknell B#, Ruiz-Rosado# 2023. Spatial Multi-Omic Atlas of Pyelonephritis. American Society of Nephrology (Oral presentation)
