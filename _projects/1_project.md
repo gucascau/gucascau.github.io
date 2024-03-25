@@ -29,4 +29,3 @@ Pyelonephritis, a condition initiated by the infiltration of bacteria into the k
 
 You can also access to the project details in my github: https://github.com/gucascau/Pyelonephritis.git
 
-{% endraw %}
