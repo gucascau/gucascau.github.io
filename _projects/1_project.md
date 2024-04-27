@@ -54,11 +54,14 @@ The Spatial Pyelonephritis RShiny application has been meticulously crafted with
 The Spatial Pyelonephritis RShiny application is equipped with an intuitive and user-friendly interface, allowing researchers to navigate complex analyses with ease and efficiency. With interactive visualizations and customizable workflows, users can tailor their analytical approach to suit specific research objectives, fostering collaboration and accelerating scientific discoveries in the field of pyelonephritis research.
 
 Please access to the Pyelonephritis website link:
-[Pyelonephritis RShiny App and Website]https://pyelonephritis.shinyapps.io/Pyelonephritis-Shiny/
+
+[Pyelonephritis RShiny App and Website](https://pyelonephritis.shinyapps.io/Pyelonephritis-Shiny/)
 
 
 
 **Github**
 You can also access to the project details in my github: 
-[Pyelonephritis Github]https://github.com/gucascau/Pyelonephritis.git
-[Pyelonephritis RShiny Github]https://github.com/gucascau/Pyelonephritis-Shiny.git
+
+[Pyelonephritis Github](https://github.com/gucascau/Pyelonephritis.git)
+
+[Pyelonephritis RShiny Github](https://github.com/gucascau/Pyelonephritis-Shiny.git)
