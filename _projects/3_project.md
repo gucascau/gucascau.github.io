@@ -1,81 +1,29 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title:  High-throughput Identification of DNA Repair Products
+description: a project that we developed a series of softwares to adress DNA repair products at DSB sites. 
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
 category: work
+related_publications: no
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Development of iDSBins**
+Insertions of mobile elements, mitochondrial DNA and fragments of nuclear chromosomes at DNA double-strand breaks sites (DSBs) threaten genome integrity and are common in cancer. Despite extensive efforts, our knowledge of these insertions still remains unknown. These large insertions were previously profiled along with quantitatively Sanger sequencing, but have not yet been combined with the massively parallel approaches to tackle the complexity of insertion events. Here, we introduced a high-throughput sequencing Break-Ins (DNA double strand break insertion sequencing), a method that can detect large and complicated insertion/deletion events at DNA double strand break sites. In parallel with the novel technology, we also developed a simplified, standardized and fully automated data analysis software toolkit, iDSBins, which enables routine scoring and interpretation of large-scale insertions at targeted double strand break site.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+[iDSBins Github](https://github.com/gucascau/iDSBins.git)
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+**Development of LargeInsertionFeature**
+Insertions of mobile elements, mitochondrial DNA and fragments of nuclear chromosomes at DNA double-strand breaks sites (DSBs) threaten genome integrity and are common in cancer. Despite extensive efforts, our knowledge of these insertions still remains unknown. These tutorials will focus on the different features of large insertion events.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+[LargeInsertionFeature Github](https://github.com/gucascau/LargeInsertionFeature.git)
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+**Development of iDSBInvert**
+Templated insertions can occur at programmed breaks at VDJ locus or at endonuclease induced break. Despite their prevalence, the mechanisms underlying such events remain poorly understood, and the genetic pathways regulating these events are largely unknown. We propose that such inversions arise through microhomology mediated template switch within single-stranded DNA intermediates of replication, followed by displacement of inverted sequence and its insertion at the DSB. The package is to characterize the inverted repeats from ssDNA transformation to undestand the mechanism.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+[iDSBInvert Github](https://github.com/gucascau/iDSBInvert.git)
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+**Development of iDSBindel**
+DNA double strand breaks are one of the most deleterious DNA lesions. The repair by nonhomologous end joining is error-prone, which would induced small insertions or remove damaged or mismatched nucleotides. To detect the products of DNA double strand break repair, we developed a novel techonology -- Break-Ins. In accompany with this technology, we also developed iDSBindel, which would sensentively detect short insertion, short deletion, short deletion and short insertion, and indel-free products at DNA double strans break site. iDSBindel can also calculate the frequency of each indel repair events.
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+[iDSBindel Github](https://github.com/gucascau/iDSBindel.git)
