@@ -8,6 +8,7 @@ category: work
 related_publications: no
 ---
 **Introduction**
+
 Pyelonephritis, a condition initiated by the infiltration of bacteria into the kidneys through the bloodstream or the ureter—the tube connecting the bladder to the kidneys—is a grave medical concern. Failing to address this condition promptly can result in kidney damage and various complications. Typical symptoms of pyelonephritis encompass fever, chills, nausea, vomiting, abdominal pain, and discomfort in the back, side, or groin area. Annually, pyelonephritis accounts for a substantial number of cases, with 1,138,000 reported instances and an associated societal cost exceeding $2.14 billion in the United States. Uropathogenic Escherichia coli (UPEC) stands out as the predominant causative agent, being responsible for over 80% of pyelonephritis cases. If left untreated, pyelonephritis can lead to severe consequences, including kidney injury, renal scarring, progressive loss of kidney function, hypertension, and, ultimately, end-stage renal disease. Immediate and appropriate medical intervention is crucial to mitigate the potential complications associated with pyelonephritis.
 
 <div class="row">
@@ -60,6 +61,7 @@ Please access to the Pyelonephritis website link:
 
 
 **Github**
+
 You can also access to the project details in my github: 
 
 [Pyelonephritis Github](https://github.com/gucascau/Pyelonephritis.git)

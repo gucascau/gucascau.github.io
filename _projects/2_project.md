@@ -32,4 +32,6 @@ Urinary tract obstruction refers to any condition that disrupts the natural flow
 </div>
 
 
-You can also access to the project details in my github: https://github.com/gucascau/Pyelonephritis.git
+You can also access to the project details in my github: 
+
+[Urothelium in human](https://github.com/gucascau/Urothelium.git)
