@@ -18,6 +18,9 @@ Details: https://github.com/kidcancerlab/2023CoderUpgrade<br />
 
 
 ## Review Roles
+2024 – now          *Editorial Board*    <br />
+            **Genes** Bioinformatic Section <br />
+
 2022 – now          *Guest associate editor*    <br />
             **Genes** (DNA damage and repair in microorganism and mammalian systems) <br />
 Details: https://www.mdpi.com/journal/genes/special_issues/DNA_Damage_Microorganisms<br />
