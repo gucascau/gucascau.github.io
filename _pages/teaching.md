@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 ## Teaching Roles
-
+2026 **"Introduce to R"**  <br />
 2023 and 2024 **A single-cell analysis coding boot camp run by SCRGOT** <br />
 <br />
 Session I: **Cell-Cell Communication**<br />
@@ -17,6 +17,10 @@ Session II:**Single Cell Integration** <br />
 Details: https://github.com/kidcancerlab/2023CoderUpgrade<br />
 
 ## Review Roles
+
+2025 – now _Guest associate editor_  <br />
+**Genes** (BSingle-Cell and Spatial Multi-Omics in Human Diseases) <br />
+Details: https://www.mdpi.com/journal/genes/special_issues/DNA_Damage_Microorganisms<br />
 
 2024 – now _Editorial Board_ <br />
 **Genes** Bioinformatic Section <br />
