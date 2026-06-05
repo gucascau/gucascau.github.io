@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  High-throughput Identification of DNA Repair Products
-description: a project that we developed a series of softwares to adress DNA repair products at DSB sites. 
+title: High-throughput Identification of DNA Repair Products
+description: a project that we developed a series of softwares to adress DNA repair products at DSB sites.
 img: assets/img/7.jpg
 importance: 3
 category: work
