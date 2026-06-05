@@ -20,7 +20,7 @@ Details: https://github.com/kidcancerlab/2023CoderUpgrade<br />
 
 2025 – now _Guest associate editor_  <br />
 **Genes** (BSingle-Cell and Spatial Multi-Omics in Human Diseases) <br />
-Details: https://www.mdpi.com/journal/genes/special_issues/DNA_Damage_Microorganisms<br />
+Details: https://www.mdpi.com/journal/genes/special_issues/8228L57MF5<br />
 
 2024 – now _Editorial Board_ <br />
 **Genes** Bioinformatic Section <br />
