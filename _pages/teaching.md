@@ -19,7 +19,7 @@ Details: https://github.com/kidcancerlab/2023CoderUpgrade<br />
 ## Review Roles
 
 2025 – now _Guest associate editor_  <br />
-**Genes** (BSingle-Cell and Spatial Multi-Omics in Human Diseases) <br />
+**Genes** (Single-Cell and Spatial Multi-Omics in Human Diseases) <br />
 Details: https://www.mdpi.com/journal/genes/special_issues/8228L57MF5<br />
 
 2024 – now _Editorial Board_ <br />
