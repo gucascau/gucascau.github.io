@@ -32,4 +32,4 @@ Urinary tract obstruction refers to any condition that disrupts the natural flow
 
 You can also access to the project details in my github:
 
-[Urothelium in human](https://github.com/gucascau/Urothelium.git)
+[Urothelium in human](https://github.com/gucascau/UrotheliumMouse.git)
